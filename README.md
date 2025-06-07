@@ -1,9 +1,10 @@
 <h1 align="center">Hey 👋, I'm Sri Krishna</h1>
 <h3 align="center">AI & ML Enthusiast | Certified in DL and Gen AI | Voice Assistant Architect</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6DD1F2&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+🚀;Machine+Learning+|+Voice+AI+|+Deep+Learning;Always+learning+✨" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6DD1F2&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%9A%80;Machine+Learning+%7C+Voice+AI+%7C+Deep+Learning;Always+learning+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 
 
 ---
