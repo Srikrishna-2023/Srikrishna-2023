@@ -7,6 +7,9 @@
 
 
 
+
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -22,6 +25,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,flutter,cpp,html,css,mongodb,git,github" />
+</p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srikrishna-2023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srikrishna-2023&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikrishna-2023&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
