@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6DD1F2&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+🚀;Machine+Learning+|+Voice+AI+|+Deep+Learning;Always+learning+✨" alt="Typing SVG" />
+</p>
 
 
 ---
