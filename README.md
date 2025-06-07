@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science (AI)**
-- 🤖 Building an intelligent voice assistant: `Jarvis`
+- 🤖 Curious to develop
 - 📊 Passionate about AI, ML, Deep Learning & Automation
   
 
